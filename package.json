@@ -1,0 +1,20 @@
+{
+  "name": "fcc-npm-practice",
+  "version": "1.0.0",
+  "description": "package creation practice for FCC's NPM course",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "fcc",
+    "npm",
+    "practice",
+    "learning"
+  ],
+  "author": "dalerka",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
