@@ -1,6 +1,6 @@
 {
   "name": "fcc-npm-practice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "package creation practice for FCC's NPM course",
   "main": "index.js",
   "scripts": {
